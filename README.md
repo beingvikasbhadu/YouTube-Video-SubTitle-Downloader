@@ -1,7 +1,7 @@
 # :round_pushpin:YouTube Video Subtitle Downloader
 I scripted a python script, with the help of this you can download subtitle of any youtube video as **_.txt_** file.
 
-# :hammer:Buit With
+# :hammer:Built With
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 
 # :fire:Features
