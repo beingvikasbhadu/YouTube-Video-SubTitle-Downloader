@@ -4,6 +4,12 @@ I scripted a python script, with the help of this you can download subtitle of a
 # :hammer:Built With
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 
+# :mag_right:**_How to find a Video's Id ?_**
+> Go to video and copy the link of video.<br>
+> Pick the text which is after the **"_v=_"** in link.<br>
+> Eg: Video Link:https://www.youtube.com/watch?v=OPf0YbXqDm0<br>
+> Then Video Id would be: **_OPf0YbXqDm0_**<br>
+
 # :fire:Features
 * It can do a lot of cool things, some of them being:
 * Take notes from any video.
