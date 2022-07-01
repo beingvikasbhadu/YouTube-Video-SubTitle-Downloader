@@ -34,7 +34,7 @@ To run this program you will require a API key. Register your API key by clickin
 
 
 # :name_badge:License 
-This project is licensed under [MIT License](https://github.com/beingvikasbhadu/Search-on-YouTube-by-Pyhon-Script/blob/master/LICENSE) 2022 vikas bhadu
+This project is licensed under [MIT License](https://github.com/beingvikasbhadu/YouTube-Video-SubTitle-Downloader/blob/main/LICENSE) 2022 vikas bhadu
 
 
 # :arrow_upper_right:Future Improvements
